@@ -1,0 +1,7 @@
+server:
+  port: 8222
+  servlet:
+    context-path: /product
+spring:
+  application:
+    name: productservice
