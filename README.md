@@ -1,7 +1,6 @@
-### A spring book microservice that will be proxied through a Zuul proxy
+### A spring boot microservice that will be proxied through a Zuul proxy
 (https://github.com/onelazyugy/zuul-proxy)
 - This microservice serves 2 APIs
-    1. productservice
     - GET 
         - http://localhost:8222/product/api/v1/product
     - POST 
